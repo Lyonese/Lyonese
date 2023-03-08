@@ -1,16 +1,21 @@
-### Hi there 👋
+# **Hello im Ivan Del Rosario👋**
 
-<!--
-**Lyonese/Lyonese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Estudiante avanzado** me gustaría obtener competencias en el área de desarrollo, me considero una persona curiosa, con facilidad para la resolución de problemas. Con ganas de aprender y mejorar. Busco una empresa que me ofrezca la oportunidad de evolucionar en el desarrollo web y me comprometo a poner lo que haga falta para la consecución de objetivos.
 
-Here are some ideas to get you started:
+## **Lenguajes💻**
+1. python🐍
+2. C😵‍💫
+3. Java🍵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Comandos | Descripcion |
+| ------ | ------ |
+| sudo | Ejecuta un comando con permisos de superusuario |
+| ls | Muestra el contenido de un directorio |
+| mkdir | Crea un directorio nuevo|
+|pwd      |Muestra l directorio actual|
+|mv|Mueve un achivo|
+
+|Comandos | Alias | Descripcion |
+| ------ | ------ | ----- |
+|sudo apt-get update && sudo apt-get upgrade| Update | Actualiza el sistema operativo |
+|clear | c | Limpia la terminal |
