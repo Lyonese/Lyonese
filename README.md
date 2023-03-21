@@ -19,3 +19,4 @@
 | ------ | ------ | ----- |
 |sudo apt-get update && sudo apt-get upgrade| Update | Actualiza el sistema operativo |
 |clear | c | Limpia la terminal |
+
